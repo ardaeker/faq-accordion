@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor ↗](https://your-solution-url.com)
-- Live Site URL: [Open on Vercel ↗](https://your-live-site-url.com)
+- Live Site URL: [Open on Vercel ↗](https://faq-accordion-lilac-three.vercel.app)
 
 ### Built with
 
