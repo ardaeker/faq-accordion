@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor ↗](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor ↗](https://www.frontendmentor.io/solutions/faq-accordion-9ZilQrrJ8c)
 - Live Site URL: [Open on Vercel ↗](https://faq-accordion-lilac-three.vercel.app)
 
 ### Built with
