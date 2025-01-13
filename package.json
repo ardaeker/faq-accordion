@@ -2,6 +2,10 @@
   "name": "faq-accordion",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Arda Eker",
+    "url": "https://github.com/ardaeker"
+  },
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
