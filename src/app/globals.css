@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #f8eeff;
+  --foreground: #8b6990;
+
+  --color-white: #ffffff;
+  --color-black: #000000;
+
+  --color-pink-100: #f8eeff;
+  --color-pink-800: #ad28eb;
+
+  --color-purple-700: #8b6990;
+  --color-purple-900: #301534;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+}
+
+@layer utilities {
+  .min-h-screen {
+    min-height: 100vh;
+    min-height: 100dvh;
+  }
+}
