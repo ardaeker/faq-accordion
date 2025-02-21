@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     title: 'Arda Eker - FAQ Accordion',
     description:
       'An interactive FAQ section with responsive design and fully tested functionality.',
-    siteName: 'Frontend Mentor - FAQ Accordion solution',
+    siteName: 'Arda Eker - FAQ Accordion solution',
     images: [
       {
         url: 'open-graph-image.png',
