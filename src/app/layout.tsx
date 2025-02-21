@@ -14,9 +14,9 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: 'Frontend Mentor - FAQ Accordion',
+  title: 'Arda Eker - FAQ Accordion',
   description:
-    'This website is a solution to the FAQ Accordion challenge on Frontend Mentor. It is built with Next.js, Tailwind CSS, and TypeScript. Coded by Arda Eker.',
+    'An interactive FAQ section with responsive design and fully tested functionality.',
   authors: {
     name: 'Arda Eker',
     url: 'https://github.com/ardaeker',
@@ -34,9 +34,9 @@ export const metadata: Metadata = {
   ],
   metadataBase: new URL('https://faq-accordion-lilac-three.vercel.app/'),
   openGraph: {
-    title: 'Frontend Mentor - FAQ Accordion',
+    title: 'Arda Eker - FAQ Accordion',
     description:
-      'This website is a solution to the FAQ Accordion challenge on Frontend Mentor. It is built with Next.js, Tailwind CSS, and TypeScript. Coded by Arda Eker.',
+      'An interactive FAQ section with responsive design and fully tested functionality.',
     siteName: 'Frontend Mentor - FAQ Accordion solution',
     images: [
       {
@@ -46,9 +46,6 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: 'https://faq-accordion-lilac-three.vercel.app',
-  },
-  icons: {
-    icon: '/icon.png',
   },
 };
 
